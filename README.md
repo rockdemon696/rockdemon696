@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rockdemon696
+- 👋 Hi, I’m @rockdem0n
 - 👀 I’m interested in Minecraft modding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
