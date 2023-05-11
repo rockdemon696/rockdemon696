@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rockdem0n
 - 👀 I’m interested in Minecraft modding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
