@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rockdem0n
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Godot
+- 🌱 I’m currently learning Gamemaker Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
